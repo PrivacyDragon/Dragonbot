@@ -19,5 +19,6 @@ Then you just make sure you have nodejs installed and the module 'discordjs'. <b
 And it is just simply running: 'node dragonbot.js' <br>
 ## Inviting the real Dragonbot to your own server
 It is possible to invite Dragonbot to your own server, for that send me an email. <br>
+
 ---
 If you find any isues, feel free to report them!
