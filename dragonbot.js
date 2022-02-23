@@ -825,11 +825,11 @@ client.on('message', msg => {
 		else if (a === 15){
 			msg.channel.send("Have you heard of [censored]?");}
     else if (a === 16){
-      msg.channel.send("Can someone please invite Privacy_Dragon?(Privacy_Dragon#0001)");}
+      msg.channel.send("Can someone please invite Privacy_Dragon?(Privacy_Dragon#5495)");}
     else if (a === 17){
       msg.channel.send("As long as Privacy_Dragon isn't here, I'm not going to make any sense!");}
     else if (a === 18){
-        msg.channel.send("Thou should really ask Privacy_Dragon#0001 to come here!");}
+        msg.channel.send("Thou should really ask Privacy_Dragon#5495 to come here!");}
    }
   }
        
